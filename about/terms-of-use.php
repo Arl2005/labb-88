@@ -40,7 +40,7 @@
 		<!-- Page-level footer -->
 		<footer>
 <?php
-		include('../includes/footer-nav.php');
+		require $_SERVER['DOCUMENT_ROOT'].'../includes/footer-nav.php';
 
 ?>
 			<p><small>© HTML, CSS, and JS Blocks Inc.</small></p>
