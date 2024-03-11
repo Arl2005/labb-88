@@ -2,12 +2,12 @@
 			<!-- Global site navigation -->
 			<nav>
 				<ul>
-					<li><a href="/week 8/index.php" title="Go to the Home page">Home</a></li>
-					<li><a href="/week 8/red.php" title="Learn about red blocks">Red Blocks</a></li>
-					<li><a href="/week 8/blue.php" title="Learn about blue blocks">Blue Blocks</a></li>
-					<li><a href="/week 8/yellow.php" title="Learn about yellow blocks">Yellow Blocks</a></li>
-					<li><a href="/week 8/green.php" title="Learn about green blocks">Green Blocks</a></li>
-					<li><a href="/week 8/about.php" title="Learn more about us">About</a></li>
+					<li><a href="index.php" title="Go to the Home page">Home</a></li>
+					<li><a href="red.php" title="Learn about red blocks">Red Blocks</a></li>
+					<li><a href="blue.php" title="Learn about blue blocks">Blue Blocks</a></li>
+					<li><a href="yellow.php" title="Learn about yellow blocks">Yellow Blocks</a></li>
+					<li><a href="green.php" title="Learn about green blocks">Green Blocks</a></li>
+					<li><a href="about.php" title="Learn more about us">About</a></li>
 					
 					
 				</ul>
